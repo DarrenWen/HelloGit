@@ -12,6 +12,8 @@ namespace HelloGit
         protected void Page_Load(object sender, EventArgs e)
         {
             int i = 0;
+
+            int j = 1;
         }
     }
 }
